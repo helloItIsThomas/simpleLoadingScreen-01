@@ -4,13 +4,22 @@
     "time": 0.0,
     "easing": "quint-in",
     "pathSlider": 0.0,
-    "circleSlider": 0.0
+    "circleSlider": 0.0,
+    "whole": 1.0
   },
+  {
+    "time": 0.0,
+    "easing": "quint-in-out",
+    "whole2": 1.0,
+    "half": 1.0
+  },
+
   {
     "time": 0.66,
     "easing": "quint-in-out",
     "pathSlider": 1.0,
-    "circleSlider": 1.0
+    "circleSlider": 1.0,
+    "half": 0.0
   },
   {
     "time": 0.66,
@@ -22,6 +31,13 @@
     "time": 1.0,
     "easing": "quint-out",
     "pathSlider": 0.0,
-    "circleSlider": 0.0
+    "circleSlider": 0.0,
+    "whole": 0.0
+  },
+  {
+    "time": 1.0,
+    "easing": "quint-in-out",
+    "whole2": 0.0,
+    "half": 1.0
   }
 ]

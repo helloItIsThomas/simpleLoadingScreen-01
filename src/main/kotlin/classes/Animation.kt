@@ -15,6 +15,7 @@ class Animation : Keyframer() {
     val shapeLine by DoubleChannel("shapeLine")
     val half by DoubleChannel("half")
     val whole by DoubleChannel("whole")
+    val whole2 by DoubleChannel("whole2")
     val third by DoubleChannel("third")
     val quarter by DoubleChannel("quarter")
 }
